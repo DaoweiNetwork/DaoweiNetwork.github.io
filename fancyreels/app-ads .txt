@@ -1,7 +1,7 @@
 # Updated at 2026/03/27 10:43:09
 
 # Admob
-google.com,pub-3554194302092206,DIRECT,f08c47fec0942fa0
+google.com,pub-8524248531176739,DIRECT,f08c47fec0942fa0
 
 # Liftoff
 vungle.com,5dc9534f674ec70017d0306a,DIRECT,c107d686becd2d77
